@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings upon the debates, relating to the late charter of the city of London as also the entering up of judgment against it, giving an account of the most remarkable transactions relating to that affair.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55976</idno><idno type="EEBO-CITATION">12117164</idno>
+  <idno type="VID">54338</idno>
+  <idno type="EEBO-PROQUEST">2240914572</idno>
+  
+            <idno type="STC">Wing P3628</idno>
+            <idno type="STC">ESTC R182138</idno>
+            <idno type="OCLC">12117164</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55976)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proceedings upon the debates, relating to the late charter of the city of London as also the entering up of judgment against it, giving an account of the most remarkable transactions relating to that affair.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtiss,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>The Court of Aldermen on Oct. 2nd by a majority declined to allow any abridgment of their privileges as contained in their Charter, which had been adjudged forfeited and liable to be seized into the King's hands.  Thereupon judgment was entered up and the Charter was actually seized and the King by commission appointed the Lord Mayor and other officers. cf. Crawford, J.L.L. Catalogue of English Broadsides, 1505-1897.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">City of London (England).</term>
+               <term type="geographic_name">London (England) --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:54338:1"/>
+            <head>THE PROCEEDINGS upon the Debates, Relating to the late CHARTER OF THE CITY of LONDON, As also the Entering up of Judgment against it. Giving an account of the most Remarkable Trans<g ref="char:EOLhyphen"/>actions Relating to that Affair.</head>
+            <p>THE Liberties, Franchises, &amp;c. of the City of <hi>London,</hi> being adjudged forfeited and lyable to be Seized into the King's hands the last <hi>Term,</hi> by the Judges of his Majesties Court of <hi>Kings Bench;</hi> his Majestie Ordered his <hi>Attorney General</hi> to stay the entering up of Judgment till further Orders; and upon receiving the <hi>Humble Petition</hi> of the Lord Mayor, Aldermen, and Commons, in Common Council Assembled, was pleased, by the Lord <hi>Keeper,</hi> to require their Submission to divers Regulations of their <hi>Charter,</hi> relating to his approving of the Lord Mayor, Sheriffs, Chamberlain, Town-Clark, Aldermen, <hi>&amp;c.</hi> upon their Elections; to consider of which a Com<g ref="char:EOLhyphen"/>mon-Council was called; and after divers debates it was resolved by the Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rity of Votes, that it was altogether Necessary and Expedient for the prevent<g ref="char:EOLhyphen"/>ing the Fatal Consequences, that might insue upon Judgment being entred up, (if they refused) to comply with his Majesties Demands, that so the Old <hi>Charter</hi> might be continued without any other alteration; of which their ready comply<g ref="char:EOLhyphen"/>ance they assured his Majestie, by the Recorder, and Sheriffs: but so it happened that when they came to Seal to the Instrument drawn up for that purpose many seemed unsatisfied, and were rather inclinable to the Surrender of the whole, than to have it abridged in part; the which on the 28th of <hi>September</hi> was deba<g ref="char:EOLhyphen"/>ted in Common-Council, where divers Speeches were made by the Aldermen &amp; Commons, debating the matter earnestly. After which Mr. <hi>Recorder</hi> was desi<g ref="char:EOLhyphen"/>red to deliver his Opinion, who at the instance of the Lord Mayor, did to this Effect, <hi>Ʋiz.</hi> That he had made it his business for some time past, to consider se<g ref="char:EOLhyphen"/>riously the matter in debate, and had therein consulted the Attorney General and divers other Learned Council, and that thereupon, it did not appear to him, but that the <hi>Charter</hi> would be much weakned by restriction, and he could not see how afterward they could plead prescription; therefore in his opinion it was necessary, well to Consider what was to be done, and that it was convenient to consult <hi>Councel</hi> further therein, and then proceeded, to relate divers particulers that had passed in former debates upon the occasion of the <hi>Charter;</hi> insomuch although Sr. <hi>Dudley North,</hi> and divers other Aldermen, and a great number of the Commoners were for complying with his Majesties De<g ref="char:EOLhyphen"/>mands,
+<pb n="2" facs="tcp:54338:2"/> saying, that they could not in point of Honour go from their Word and Obligation: It was Resolved that a <hi>Committee</hi> should be chosen to consider of the Affair, and an other Common Council to be Assembled on the 2d. of <hi>October</hi> 1683. to hear the Reports of those entrusted to debate the Matter: Who were also to have Council allowed them &amp;c. These things passing: although <hi>Peter Da<g ref="char:EOLhyphen"/>niel</hi> Esq: &amp; <hi>Francis Dashwood</hi> Esq: were sworn Sheriffs at <hi>Guild Hall;</hi> yet upon their going to <hi>Westminster</hi> to be present at the swearing the Old Sheriffs to their Ac<g ref="char:EOLhyphen"/>counts, before the Puissne Barron that Ceremony was deferred; yet Mr. <hi>Recor<g ref="char:EOLhyphen"/>der</hi> in the Name of the said Sheriffs invited the <hi>Barrons</hi> and officers of the Court to dinner with them as is usuall.</p>
+            <p>The 2d. of <hi>October,</hi> being come, the Court of Aldermen Assembled: As like<g ref="char:EOLhyphen"/>wise did the Commons in Council, to hear the reports of the Committe, where divers debates passed <hi>Pro &amp; Contra;</hi> and many Speeches were made, some for seal<g ref="char:EOLhyphen"/>ing to the Regulations, others for the Surrender of the intire <hi>Charter,</hi> without any further consideration; insomuch, that some hot or hasty words passed, but in the end, after Mr, <hi>Recorder</hi> had made a long Speech, wherein he declared at large the whole Proceedings from Point to Point, opening the matter, reciting some Presidents of the like Nature, in the Reign of former Kings aquiescing in the Opinion of the Committe as to a Surrender, it was put to the Vote, though not vvithout some difficulty; many alledging that divers of the Common-Coun<g ref="char:EOLhyphen"/>cil and some of the Aldermen vvere out of Tovvn and absent; and this matter vvas no other then a surprize, yet so it vvas ordered that in the end, it being con<g ref="char:EOLhyphen"/>cluded on; The Pole run thus 83 vvere for sealing to the Regulation required by his Majesty, and 105. against it, after vvhich many debates happened, insomuch that they broke not up till Eleven of the Clock in the Evening.</p>
+            <p>Upon Notice of vvhat had been resolved, and the Retraction of vvhat had formerly been agreed to, Mr. <hi>Attorney General</hi> caused, as vve are credibly enform<g ref="char:EOLhyphen"/>ed, Judgment to be entred up, so that the <hi>Charter</hi> being Actually Seized, His Ma<g ref="char:EOLhyphen"/>jestie vvas pleased, by commission to appoint the present Lord Mayor, to continue as Custos of this City, <hi>&amp;c.</hi> and that the late Elected <hi>Sheriffs</hi> by Commission likewise are, or suddenly will be sworn. Mr <hi>John Genner</hi> likewise to be <hi>Re<g ref="char:EOLhyphen"/>corder</hi> in the Room of Sr. <hi>George Trebie,</hi> and that divers Aldermen will be ap<g ref="char:EOLhyphen"/>pointed in the Room of such, as his Majesty is pleased to displace, whose No<g ref="char:EOLhyphen"/>mination will be very suddenly; and on the 3d. Instant in the Evening the Lord Mayor went to <hi>White-Hall</hi> in his Coach, attended by his Officers to wait up<g ref="char:EOLhyphen"/>on his Majestie, to know his further pleasure, (not being accompanied with any of the Aldermen,) where he was received: And after some conference about the present Juncture of Affairs relating to the City, was dismissed and according to Order, Went again this Morning accompanied by the new <hi>Recorder</hi> and the two <hi>Sherriffs,</hi> when being introduced he had the Charge and care of the City recomended to him, his Lordship promising to do all that in him lay to serve his Majestie therein: after which Mr. <hi>Recorder</hi> being introduced into the Bed-Chamber was Commanded to kneel, vvhich he doing, had therevvith the usual Ceremonies, the honour of Knight-hood conferred on him by his Ma<g ref="char:EOLhyphen"/>jesty. Aftervvhich he vvith the Lord Mayor and Sheriffs, returned to their charge.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Entred according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON <hi>Printed for</hi> Largley Curtiss. 1683</p>
+         </div>
+      </back>
+   </text>
+</TEI>
